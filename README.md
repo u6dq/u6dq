@@ -1,7 +1,7 @@
 # 🐟 About Me !
 
 ```py
-class Salomon:
+class u6dq:
     """Base class for this profile"""
     pass
 
