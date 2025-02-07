@@ -9,8 +9,8 @@ class Personality:
     @property
     def contact(self):
         telegram = "https://suivis.t.me/"
-        discord = "@o3dq | @o4dq | @o5dq"
-        twitter = "@juzothrope"
+        discord = "@u6dq"
+        twitter = "@u6dqx"
 
         return telegram, discord, twitter
 
@@ -19,8 +19,7 @@ class Personality:
         age = 15
         langs = [
             "French",
-            "English",
-            "Spanish (🤥)"
+            "English"
         ]
 
         return age, langs
@@ -30,7 +29,6 @@ class Personality:
         langs = [
             "python (expert)",
             "javascript (intermediate)",
-            "go(lang) (learning)"
         ]
         
         return langs
